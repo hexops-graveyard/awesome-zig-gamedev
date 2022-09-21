@@ -104,6 +104,12 @@ Discord tag of creator: bootra#1648
 - meant for doodling around with game development in zig
 - uses WebGPU
 
+https://github.com/gamercade-io/zig-template
+Discord tag of creator: TheRealZerve#1134
+- Zig bindings for gamercade
+- gamercade is "The ultimate WASM powered fantasy console and platform"
+- focused on easy implementation of multiplayer for developers, and pushing the boundaries of a fantasy console to its limits
+
 ## Zig Game UI
 
 https://github.com/JonSnowbd/ZT
